@@ -32,7 +32,7 @@ function draw() {
  if(frameCount < 600){
    fill(0, 255, 0);
     textSize(40);
-    text("click and drag to arrange the blocks", 20, 60);
+    text("click and drag to arrange the blocks", 20, height - 60);
  }
 
 }

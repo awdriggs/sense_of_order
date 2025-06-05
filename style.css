@@ -57,7 +57,7 @@ a, a:visited {
 .link-list img {
   display: block;
   width: 100%;
-  max-width: 600px;
+  max-width: 800px;
   height: auto;
   margin: 0 auto 0.5rem;
 }
