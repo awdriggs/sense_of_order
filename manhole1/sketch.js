@@ -54,7 +54,7 @@ function draw() {
 
   if(rotation > 0.54 && rotation < 0.58){
     textSize(40);
-    text("✅", 40, 60);
+    text("Nice!", 40, 60);
     // text("user arrow keys to rotate", 40, 60)
   } else if(frameCount < 600){
     textSize(40);
